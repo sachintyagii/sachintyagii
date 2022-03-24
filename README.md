@@ -1,5 +1,6 @@
 ### Hi There
 
+# Background
 - I have played various roles like Senior Developer, Senior Data Analyst, Linux System Administrator.
 - Extensive experience handling end to end of product development process from requirements gathering, design thinking, infrastructure setup, coding, code review, unit testing, production deployment and maintenance. 
 - Single handedly handled the assignments and delivered them successfully with accuracy.
